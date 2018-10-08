@@ -1,0 +1,21 @@
+{
+  "name": "node_api_template",
+  "version": "1.0.0",
+  "description": "Pure Node.js API template",
+  "main": "app.js",
+  "scripts": {
+    "start": "NODE_ENV=production node app.js",
+    "develop": "node --use_strict app.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmhuebner/node_api_template.git"
+  },
+  "author": "David Huebner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmhuebner/node_api_template/issues"
+  },
+  "homepage": "https://github.com/dmhuebner/node_api_template#readme"
+}

@@ -59,3 +59,12 @@ typings/
 
 # next.js build output
 .next
+
+# OSX file system
+.DS_Store
+
+# Jet Brains IDEs
+.idea
+
+# Application Secrets
+secrets.js
